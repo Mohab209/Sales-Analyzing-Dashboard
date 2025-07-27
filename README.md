@@ -74,7 +74,7 @@ Big thanks to **Eng. Ahmed Abd Elbaky** for his guidance and support in helping 
 
 ## 📷 Dashboard Preview
 
-
+![Sales Dashboard Preview](Sales_Dashboard.png)
 
 
 ---
